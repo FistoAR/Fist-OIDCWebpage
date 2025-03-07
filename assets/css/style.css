@@ -1458,7 +1458,6 @@ body {
     align-items: center;
     justify-content: space-between;
     padding: 10px;
-    padding-right: 0;
 }
 
 .footer-left {
@@ -1569,7 +1568,11 @@ body {
     line-height: 2;
     width: 100%;
     height: auto;
-    margin-left: -17%;
+    margin-left: -16%;
+}
+
+.address{
+    margin-left: 2%;
 }
 
 .numbers i {
@@ -1659,7 +1662,7 @@ body {
         flex-direction: row;
         gap: 20px;
         align-items: center;
-        margin-left: -19%;
+        margin-left: -20%;
     }
 
     .numbers i {
@@ -1694,6 +1697,7 @@ body {
         text-align: left;
         height: auto;
         padding: 20px;
+        padding-right: 0;
     }
 
     .footer-left,
@@ -1742,7 +1746,7 @@ body {
         flex-direction: row;
         gap: 10px;
         align-items: center;
-        margin-left: -22%;
+        margin-left: -20.5%;
         padding-top: 0;
     }
 
@@ -1836,7 +1840,7 @@ body {
         flex-direction: row;
         gap: 25px;
         align-items: center;
-        margin-left: -15%;
+        margin-left: -14.5%;
     }
 
     .location {
