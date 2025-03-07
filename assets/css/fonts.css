@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'segoebold';
+    src: url('../fonts/SegoeUIBold.ttf') format('truetype');
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: 'segoesemibold';
+    src: url('../fonts/SegoeUISemibold.ttf') format('truetype');
+    font-weight: bold;
+}
