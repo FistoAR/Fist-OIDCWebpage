@@ -11,16 +11,16 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // List of background images corresponding to each slide
     const backgroundImages = [
-        'url("../assets/images/shareanywheremain.webp")',
-        'url("../assets/images/hotspotmain.webp")',
-        'url("../assets/images/immersivemain.webp")',
-        'url("../assets/images/librarymain.webp")',
-        'url("../assets/images/360degreemain.webp")',
-        'url("../assets/images/ARanimmain.webp")',
-        'url("../assets/images/3danimain.webp")',
-        'url("../assets/images/2danimmain.webp")',
-        'url("../assets/images/brandidentitymain.webp")',
-        'url("../assets/images/Productselectionmain.webp")',
+        'url("../images/shareanywheremain.webp")',
+        'url("../images/hotspotmain.webp")',
+        'url("../images/immersivemain.webp")',
+        'url("../images/librarymain.webp")',
+        'url("../images/360degreemain.webp")',
+        'url("../images/ARanimmain.webp")',
+        'url("../images/3danimain.webp")',
+        'url("../images/2danimmain.webp")',
+        'url("../images/brandidentitymain.webp")',
+        'url("../images/Productselectionmain.webp")',
     ];
 
     // Function to update the carousel display
